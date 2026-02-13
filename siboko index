@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>SHCOOL'S EVENT PAGE</title>
+    <link rel="stylesheet" href="Style.css"
+</head>
+<body>
+      <h1>The musical day</h1>
+      <h2> Details if interested</h2>
+      <ul>
+        <li>Date:our event will be organised the 13 April 2026</li>
+        <li>Time:It will start at 8:00am and end at 7:30pm</li>
+        <li>Location: It will be organized at the People Palace, which is located next to the Martyr Stadium</li>
+      </ul>
+      <tableborder="1"
+      <tr>
+        <th>Time</th>
+        <th>Activity</th>
+     </tr>
+    <tr>
+        <td>8:00am-12:30pm</td>
+        <td>Singing </td>
+   </tr>
+<tr>
+    <td>12:30-15:30</td>
+    <td>Dancing</td>
+</tr>
+<tr>
+    <td>15:30-19:30</td>
+    <td>Blackpink concert</td>
+</tr>
+</table>
+<button class="buy tikets">Clique moi</button>
+</body>
+</html>
+
+
+
+
